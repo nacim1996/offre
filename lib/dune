@@ -1,0 +1,5 @@
+(library
+ (name offre)
+ (public_name offre.lib)
+ (ocamlc_flags
+  (:standard -warn-error -a+31+8)))

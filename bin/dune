@@ -1,0 +1,6 @@
+(executable
+ (name offre_app)
+ (public_name offre)
+ (libraries offre.lib)
+ (ocamlc_flags
+  (:standard -warn-error -a+31+8)))
